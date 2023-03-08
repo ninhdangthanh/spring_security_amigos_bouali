@@ -1,0 +1,4 @@
+Using JWT
+Create token to access data
+Create refresh_token to get new token when token is expire
+Authorization with role table link to user table
